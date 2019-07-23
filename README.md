@@ -1,6 +1,6 @@
-# y
+# bolg
 
-> A Vue.js project
+> Vue.js project
 
 ## Build Setup
 
