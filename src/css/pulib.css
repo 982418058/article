@@ -1,0 +1,14 @@
+html,body{ 
+    height: 100%;
+}
+html,body,ul,li,h3{
+    margin: 0;
+}
+img{
+    width:100%;
+}
+h1,h2,h3,h4 {
+    border-bottom: 1px #cac9c9 solid;
+    text-align: center;
+    margin: 0px;
+}
